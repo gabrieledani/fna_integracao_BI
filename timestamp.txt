@@ -1,0 +1,22 @@
+Grava o momento de inserção dos dados de cada tabela pra executar de tanto em tanto tempo conforme parametro do config.ini
+
+dim_cliente
+dim_cond_pgto
+dim_div_venda
+dim_empresa
+dim_estabelecimento
+dim_grupo_invent
+dim_item
+dim_local
+dim_mascara
+dim_micro_regiao
+dim_motivo_dev
+dim_representante
+dim_tempo
+dim_tipo_nota
+dim_transportadora
+dim_unid_medida
+fato_nfs
+fato_pedido
+fato_venda_dev
+tbi_municipios_ibge
